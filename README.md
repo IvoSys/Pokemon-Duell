@@ -1,6 +1,4 @@
-- PokeMain.java: Hauptprogramm (ein Spieler), 
-- PokeMain_2P.java: Hauptprogramm (zwei Spieler), 
-- Trainer.java: Klasse für Spieler- und Gegner-Objekte, 
-- Pokemon.java: Klasse für die von Trainern eingesetzten Pokemon, 
-- Special.java: Klasse, um die specialAttack()-Methode für jedes Pokemon zu spezialisieren, 
-- ASCII_Art.java: Auffälligere Artworks für Titel und Programmanschluss, 
+VERALTETES REPOSITORY
+Neues Repository: github.com/IvoSys/Poke-Duell
+Oder sehen Sie sich das Textadventure an, an dem ich nun arbeite: github.com/IvoSys/WarlockQuest
+Herzliche Grüße!
